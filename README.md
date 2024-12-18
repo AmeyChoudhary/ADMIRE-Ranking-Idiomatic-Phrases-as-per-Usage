@@ -1,6 +1,6 @@
 # ADMIRE-Ranking-Idiomatic-Phrases-as-per-Usage
 
-We did this task as part of our coruse, Advanced NLP 2024. In this, we contributed to [sub-Task A of Sem-Eval 2025 Task 1](https://semeval2025-task1.github.io/)
+We did this task as part of our course, Advanced NLP 2024. In this, we contributed to [sub-Task A of Sem-Eval 2025 Task 1](https://semeval2025-task1.github.io/)
 
 
 Final Project Presentation:
