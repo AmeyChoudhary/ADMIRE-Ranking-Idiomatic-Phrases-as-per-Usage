@@ -1,5 +1,9 @@
 # ADMIRE-Ranking-Idiomatic-Phrases-as-per-Usage
 
+We did this task as part of our coruse, Advanced NLP 2024. In this, we contributed to [sub-Task A of Sem-Eval 2025 Task 1](https://semeval2025-task1.github.io/)
+
+
+Final Project Presentation:
 ![Presentation1  Auto-saved _page-0001](https://github.com/user-attachments/assets/b309b822-a5f1-4beb-a033-8cac5681d43b)
 ![Presentation1  Auto-saved _page-0002](https://github.com/user-attachments/assets/9b2cb888-d16b-4862-a468-baec14f2e932)
 ![Presentation1  Auto-saved _page-0003](https://github.com/user-attachments/assets/ea0d0042-55ae-4a3a-aa5c-cda5fb4ac41a)
