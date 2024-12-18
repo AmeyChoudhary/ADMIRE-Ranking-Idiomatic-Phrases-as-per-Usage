@@ -1,7 +1,6 @@
 # ADMIRE-Ranking-Idiomatic-Phrases-as-per-Usage
 
-We did this task as part of our course, Advanced NLP 2024. In this, we contributed to [sub-Task A of Sem-Eval 2025 Task 1](https://semeval2025-task1.github.io/)
-
+We did this task as part of our course, Advanced NLP 2024. In this, we contributed to [sub-Task A of Sem-Eval 2025 Task 1](https://semeval2025-task1.github.io/) The task required ranking captions based on how effectively they utilized a nominal compound in alignment with its usage in a query sentence. Our approach involved data augmentation, developing a novel loss function, and fine-tuning large language models (LLMs). This methodology led to favorable results in our study.
 
 Final Project Presentation:
 ![Presentation1  Auto-saved _page-0001](https://github.com/user-attachments/assets/b309b822-a5f1-4beb-a033-8cac5681d43b)
